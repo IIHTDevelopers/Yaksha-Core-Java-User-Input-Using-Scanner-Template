@@ -1,8 +1,5 @@
-* Command to run code for use-case 1:
-	mvn compile exec:java -Dexec.mainClass="com.iiht.evaluation.yaksha.piglatin.MyApp"
-
-* Command to run code for use-case 2:
-	mvn compile exec:java -Dexec.mainClass="com.iiht.evaluation.yaksha.words.MyApp"
+* Command to run code:
+	mvn compile exec:java -Dexec.mainClass="com.yaksha.assignment.UserInputAssignment"
 
 * Mandatory: Run the following command before the final submission
 	mvn test
